@@ -1,6 +1,7 @@
-<!-- ---
-layout: home
---- -->
+---
+layout: default
+title: Title - home
+---
 
 ### Home
 
