@@ -5,20 +5,13 @@
 
 body {
     font:14px/22px Arial, sans-serif;
-    color:#2b2b2b;
-    font-weight:300;
-    margin: 0px;
-    padding:0px 0 20px 0px;
-    background: url(../images/body-background.png) #eae6d1;
   }
   
 code {
     font-family: Lucida Console, Terminal;
-    font-size:13px;
-    color:#efefef;
-    text-shadow: 0px 1px 0px #000;
-    margin: 0 4px;
-    padding: 2px 6px;
-    background: #333;
-    border-radius: 2px;
   }
+
+  section {
+    width:640px;
+  }
+  
