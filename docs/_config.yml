@@ -8,7 +8,7 @@ description: "Vinser on GH-Pages."
 # Build settings
 # remote_theme: jekyll/minima
 
-show_downloads: true
+show_downloads: false
 # theme: jekyll-theme-slate
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
