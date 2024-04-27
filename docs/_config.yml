@@ -6,4 +6,7 @@ author:
 description: "Vinser on GH-Pages."
 
 # Build settings
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+
+show_downloads: true
+theme: jekyll-theme-slate
