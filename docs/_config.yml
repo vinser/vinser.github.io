@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Serguei Vine
+  email: vinser@outlook.com
+description: "Vinser on GH-Pages."
+
+# Build settings
+# remote_theme: jekyll/minima
