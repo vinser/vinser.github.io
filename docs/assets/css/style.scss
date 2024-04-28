@@ -18,6 +18,20 @@ code {
     border-radius: 2px;
    }
 
+pre {
+padding:8px 15px;
+background: #bcbcbc;
+border-radius: 3px;
+border:1px solid #363636;
+overflow: auto;
+overflow-y: hidden;
+
+code {
+  margin: 0px;
+  padding: 0px;
+}
+}
+  
 #banner {
   margin-right:-450px;
 }
