@@ -9,6 +9,6 @@ theme: minima
 
 header_pages:
   - index.md
-  - guide_ru.md
-  - guide_uk.md
-  - docker.md
+  - flibgolite.md
+  - pixyne.md
+  - burnfix.md
