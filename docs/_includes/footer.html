@@ -16,15 +16,16 @@
         </ul>
       </div>
       {%- endif %}
+      
       <div class="footer-col-3">
         <p>{{ site.description | escape }}</p>
       </div>
+      
+      <div class="social-links">
+        {%- include social.html -%}
+      </div>
     </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
+  
   </div>
 
 </footer>
