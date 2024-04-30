@@ -13,6 +13,6 @@ This application can attempt to get rid of this effect on your LCD, LED or plasm
 
 Moreover, burnfix can show full-screen images of various colors to help you identify defects in the display matrix. 
 
-Detailed instructions on how to install and use Burnfix can be found on the [product website.](https://vinser.github.io/burnfix/)
+Instruction on how to use Burnfix can be found on the [product website.](https://vinser.github.io/burnfix/)
 
 Enjoy!  
