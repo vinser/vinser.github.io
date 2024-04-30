@@ -1,0 +1,15 @@
+---
+---
+
+@import "minima";
+
+code {
+    background-color: #f0f0f0;
+  }
+  
+.highlight {
+  // background: #f0f0f0;
+  .highlighter-rouge & {
+    background: #f0f0f0;
+  }
+}
