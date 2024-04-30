@@ -1,8 +1,8 @@
 url: https://github.com/vinser/vinser.github.io
 title: Vinser GitHub Pages
-description: "FLibGoLite - Just enough for free OPDS"
-# author:
-#   name: Serguei Vine
+description: My landing site
+author:
+  name: Serguei Vine
 #   email: vinser@outlook.com
 
 theme: minima
