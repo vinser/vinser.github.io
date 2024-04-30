@@ -1,11 +1,14 @@
-# Site settings
 title: Vinser GitHub Pages
-author:
-  name: Serguei Vine
-  email: vinser@outlook.com
 description: "FLibGoLite - Just enough for free OPDS"
+# author:
+#   name: Serguei Vine
+#   email: vinser@outlook.com
 
 markdown: GFM
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: minima
+
+header_pages:
+  - index.md
+  - guide_ru.md
+  - guide_uk.md
+  - docker.md
