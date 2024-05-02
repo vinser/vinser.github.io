@@ -1,4 +1,4 @@
-title: Vinser GitHub Pages
+title: Serguei Vine's GitHub Pages
 description: My landing site
 theme: just-the-docs
 author:
@@ -7,3 +7,5 @@ author:
 
 url: https://github.com/vinser/vinser.github.io
 # markdown: GFM
+
+search_enabled: false
