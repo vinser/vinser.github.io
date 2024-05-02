@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Welcome!
+nav_order: 1
 ---
 
 I am pleased to welcome you to my landing page.   

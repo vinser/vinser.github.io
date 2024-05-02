@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Pixyne
+nav_order: 3
 ---
 
 __Pixyne__ is an application that allows you to quickly review your photo folders, safely delete bad and similar shots, fix the shooting dates, crop and ajust photos.

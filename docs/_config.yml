@@ -1,15 +1,9 @@
-url: https://github.com/vinser/vinser.github.io
 title: Vinser GitHub Pages
 description: My landing site
+theme: minima
 author:
   name: Serguei Vine
 #   email: vinser@outlook.com
 
-theme: minima
+url: https://github.com/vinser/vinser.github.io
 # markdown: GFM
-
-header_pages:
-  - index.md
-  - flibgolite.md
-  - pixyne.md
-  - burnfix.md

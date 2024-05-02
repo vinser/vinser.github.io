@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Burnfix
+nav_order: 4
 ---
 
 **Try to fix screen image retentions and burn in, look for screen defects**
