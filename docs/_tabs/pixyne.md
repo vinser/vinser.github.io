@@ -1,13 +1,15 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Pixyne
-nav_order: 3
+icon: fa fa-camera
+order: 3
 ---
+
 
 __Pixyne__ is an application that allows you to quickly review your photo folders, safely delete bad and similar shots, fix the shooting dates, crop and ajust photos.
 
 ---
-![image](pixyneapp1.png)
+![image](/assets/img/pixyne.png)
 
 Pixyne application has a simple and intuitive interface:   
 * With a click on photo you can mark to drop it in the trash.
@@ -18,3 +20,4 @@ Pixyne application has a simple and intuitive interface:
 Detailed instructions on how to install and use Pixyne can be found on the [product website.](https://vinser.github.io/pixyne/)
 
 Enjoy!  
+
