@@ -5,7 +5,7 @@ icon: fa fa-television
 order: 4
 ---
 
-**Try to fix screen image retentions and burn in, look for screen defects**
+<!-- **Try to fix screen image retentions and burn in, look for screen defects**
 
 After turning off or moving the taskbar, you suddenly find that the logo in the corner of the screen and the search magnifier are still visible on your monitor or TV screen, although not as brightly.
 
@@ -18,4 +18,4 @@ Moreover, burnfix can show full-screen images of various colors to help you iden
 Instruction on how to use Burnfix can be found on the [product website.](https://vinser.github.io/burnfix/)
 
 Enjoy!  
-
+ -->
